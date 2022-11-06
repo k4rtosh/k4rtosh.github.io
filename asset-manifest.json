@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/k4rtosh.github.io/static/css/main.96d51e77.css",
-    "main.js": "/k4rtosh.github.io/static/js/main.2d6ed3b8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/k4rtosh.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/banner.jpeg": "/k4rtosh.github.io/static/media/banner.ae9d8d1f361019776d65.jpeg",
-    "index.html": "/k4rtosh.github.io/index.html",
-    "main.96d51e77.css.map": "/k4rtosh.github.io/static/css/main.96d51e77.css.map",
-    "main.2d6ed3b8.js.map": "/k4rtosh.github.io/static/js/main.2d6ed3b8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/k4rtosh.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/my-app/static/css/main.233c8129.css",
+    "main.js": "/my-app/static/js/main.905c7f93.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner.jpeg": "/my-app/static/media/banner.ae9d8d1f361019776d65.jpeg",
+    "index.html": "/my-app/index.html",
+    "main.233c8129.css.map": "/my-app/static/css/main.233c8129.css.map",
+    "main.905c7f93.js.map": "/my-app/static/js/main.905c7f93.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96d51e77.css",
-    "static/js/main.2d6ed3b8.js"
+    "static/css/main.233c8129.css",
+    "static/js/main.905c7f93.js"
   ]
 }
